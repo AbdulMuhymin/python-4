@@ -1,0 +1,8 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color: rgba(23, 23, 23, 0.15);;
+}
+.card-container {
+    margin: 10px;
+}
